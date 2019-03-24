@@ -1,0 +1,225 @@
+/* .list-group-item {
+  line-height: 2.5;
+} */
+
+strong {
+  color: white;
+}
+
+#navBar {
+  height: 110px;
+  width: 100%;
+  background-color: red;
+  text-align: center;
+  border-bottom-style: solid;
+  border-bottom-width: 10px;
+  border-bottom-color: darkgray;
+}
+
+.dropdown {
+  float:right;
+  top: 30px;
+}
+
+#pill-logo {
+  font-size: 20px;
+  height: 32.5px;
+  width: 100px;
+  background-color: white;
+  margin: auto;
+  position: absolute;
+  margin-top: 20px;
+  left: 50%;
+  margin-left: -50px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+#finis-medicamen {
+  position: absolute;
+  left: 50%;
+  margin-left: -67.5px;
+  top: 65px;
+}
+
+.btn {
+  background-color: darkgray;
+}
+
+.container {
+  text-align: center;
+}
+
+#display-table {
+  height: fit-content;
+  width: 100%;
+  background-color:darkgray;
+}
+
+#generic-name {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: white;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: white;
+  margin-right: 0px;
+  padding-right: 0px;
+}
+
+#generic-name-content {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: white;
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+#brand-name {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: white;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+#brand-name-content {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: white;
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+#class {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: white;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+#class-content {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: white;
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+#uses {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: white;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+#uses-content {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: white;
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+#display-table-two {
+  margin-top: 40px;
+  height: fit-content;
+  width: 100%;
+  background-color:darkgray;
+}
+
+#side-effects {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: white;
+  margin-right: 0px;
+  padding-right: 0px;
+}
+
+
+#side-effects-content {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: white;
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+#rationale {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+#rationale-content {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: white;
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+#dc-plan {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+#dc-plan-content {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: white;
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+#withdrawal {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+#withdrawal-content {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: white;
+  background-color: #f2f2f2;
+  height: 100%;
+}
+
+.ui-menu-item-wrapper ui, li {
+  list-style-type: none;
+  text-align: justify;
+  background-color: #f2f2f2;
+  color: #333;
+  width: 50%;
+  padding: 10px;
+  margin: 10px;
+   border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
+
+.ui-menu-item-wrapper ui:hover, li:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+.ui-helper-hidden-accessible {
+  display: none;
+}
